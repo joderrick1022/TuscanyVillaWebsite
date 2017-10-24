@@ -1,0 +1,481 @@
+﻿
+    #nav{
+        margin-right:0px;
+        margin-bottom:0px;
+        padding-right:30px;
+    }
+
+    #jumbo1{
+
+        background-size:cover;
+
+      background-image: url('Content/Images/tuscany-villas-sant-anna.jpg');
+      height:372px;
+      background-repeat:no-repeat;
+      padding:0px 0px 0px 0px;
+      margin:0px 0px 0px 0px;
+      text-align:center;
+      color:white;
+    
+      
+
+    }
+
+
+      #tuskyvillaH1{
+
+          margin-top:0PX;
+
+            /*text-align:center;*/
+        }
+
+
+    body{
+        margin:0px 0px 0px 0px;
+        padding:0PX 0PX 0PX 0PX;
+    }
+
+    #rightpic{
+        padding: 0px 0px 0px 0px;
+        margin: 0px 0px 0px 0px;
+        height:372px;
+        background-image: url('Content/Images/Versilia.jpg');
+        background-size:cover;
+        background-repeat:no-repeat;
+        
+    }
+
+    .col-md-9{
+        padding:0px 0px 0px 0px;
+        margin:0px 0px 0px 0px;
+
+
+    }
+
+    /*.row{
+
+                padding:0px 0px 0px 0px;
+        margin:0px 0px 0px 0px;
+
+
+    }*/
+        
+
+
+    
+
+    .col-md-3{
+        
+                background-image: url('Content/Images/Versilia.jpg');
+              
+                text-align:right;
+                background-repeat:no-repeat;
+                padding: 0px 0px 0px 0px;
+                margin: 0px 0px 0px 0px;
+               
+               
+
+    }
+
+
+    #location{
+
+        text-align:center;
+        color:white;
+        background-color:black;
+        height:200px;
+        padding-top:35px;
+
+    }
+
+    #locationH1{
+        padding: 0px 0px 0px 0px;
+        margin:0px 0px 0px 0px;      /*this is needed*/
+    }
+
+    #location_1{
+
+
+        background-color:white;
+         padding: 0px 50px 0px 50px;
+        margin:0px 0px 0px 0px; 
+        height:300px;
+        text-align:center;
+        color:dimgray;
+         
+        /*border:5px solid red;*/
+    }
+
+    #location_1right{
+
+        margin-top:20px;
+    }
+
+     #location_1Pic{
+
+         width:419.66px;
+
+         height:256px;
+
+   
+    }
+
+
+
+
+     #location_2{
+
+
+        background-color:black;
+         padding: 55px 50px 0px 50px;
+        margin:0px 0px 0px 0px; 
+        height:300px;
+        text-align:center;
+        color:white;
+         
+    }
+
+       #location_2right{
+           
+        background-color:black;
+         padding: 35px 50px 0px 50px;
+        margin:0px 0px 0px 0px; 
+        height:300px;
+        text-align:center;
+        color:white;
+         
+
+
+    }
+
+       #location_1_thumb{
+           margin:0px 0px 0px 0px;
+
+           
+
+
+       }
+
+       #location_2_thumb{
+           padding: 0px  0px 0px 0px;
+           width:342px;
+           height:200px;
+       }
+
+       #location_2pic{
+           height:197px;
+           width:340px;
+
+       }
+
+         #location_3{
+
+
+        background-color:white;
+         padding: 0px 50px 0px 50px;
+        margin:0px 0px 0px 0px; 
+        height:300px;
+        text-align:center;
+        color:dimgray;
+         
+        /*border:5px solid red;*/
+    }
+
+         
+    #location_3right{
+
+        margin-top:20px;
+        padding:0px 0px 0px 0px;
+    }
+
+
+
+     #location_3Pic{
+
+         width:419.66px;
+
+         height:256px;
+
+   
+    }
+
+      #ammenities{
+
+        text-align:center;
+        color:white;
+        background-color:black;
+        height:200px;
+        padding-top:50px;
+
+    }
+
+      #ammenitiesH1{
+        padding: 0px 0px 0px 0px;
+        margin:0px 0px 0px 0px;      /*this is needed*/
+    }
+
+      #row1_col1{
+          
+          margin-top:35px;
+          /*margin:60px 0px 0px 99px;*/
+          margin-left:55px; 
+
+
+                   width:345px;
+
+         height:356px;
+
+            background-image: url('Content/Images/3b-348x348.jpg');
+           background-size:cover;
+           background-repeat:no-repeat;
+
+      }
+
+       #row1_col2{
+
+          margin-top:35px;
+
+
+          /*margin:50px 0px 0px 0px;*/ 
+          width:345px;
+         height:356px;
+         background-color:white;
+         color:dimgrey;
+         text-align:center;
+
+
+      }
+
+       #row1_col3{
+          margin-top:35px;
+
+      background-image: url('Content/Images/42-348x348.jpg');
+       /*margin:65px 0px 0px 0px;*/ 
+          width:345px;
+         height:356px;
+         color:dimgrey;
+         text-align:center;
+         background-repeat:no-repeat;
+                  /*border:solid 5px black;*/
+              /*float:left;*/
+
+
+      }
+
+       #row2_col1{
+
+             /*margin:0px 0px 0px 50px;*/ 
+             margin-left:55px;
+          width:345px;
+         height:356px;
+         background-color:white;
+         color:dimgrey;
+         text-align:center;
+         /*padding:45px;*/
+
+       }
+
+       #row1_col1_btn{
+
+           position:relative;
+           left:90px;
+           top:175px;
+           background-color:transparent;
+           color:white;
+           background-size:cover;
+
+           
+       }
+
+       #row2_co2{
+
+           background-image: url('Content/Images/314-348x348.jpg');
+          /*margin:0px 0px 0px 50px;*/ 
+                   width:345px;
+         height:356px;
+           background-size:cover;
+
+           /*padding-left:10px;*/
+               
+
+       }
+
+       #row2_col3{
+
+              /*margin:0px 0px 0px 50px;*/ 
+          width:345px;
+         height:356px;
+         background-color:white;
+         color:dimgrey;
+         text-align:center;
+         /*padding-top:65PX;*/
+
+         /*border:solid 5px black;*/
+       }
+
+
+
+        #row3_col1{
+          
+          margin-top:0px;
+          /*margin:60px 0px 0px 99px;*/
+          margin-left:55px; 
+
+          background-image: url('Content/Images/Villa-Rucellai-Toscani-2812-2-348x348.jpg');
+                   width:345px;
+
+         height:356px;
+
+           background-size:cover;
+           background-repeat:no-repeat;
+
+      }
+
+       #row3_col2{
+
+          margin-top:0px;
+
+
+          /*margin:50px 0px 0px 0px;*/ 
+          width:345px;
+         height:356px;
+         background-color:white;
+         color:dimgrey;
+         text-align:center;
+
+
+      }
+
+       #row3_col3{
+          margin-top:0px;
+          background-image: url('Content/Images/Villa-Vanna-231-348x348.jpg');
+       /*margin:65px 0px 0px 0px;*/ 
+          width:345px;
+         height:356px;
+         color:dimgrey;
+         text-align:center;
+         background-repeat:no-repeat;
+                  /*border:solid 5px black;*/
+              /*float:left;*/
+
+
+      }
+
+
+        #reviews{
+
+            margin-top:40px;
+
+        text-align:center;
+        color:white;
+        background-color:black;
+        height:200px;
+        padding-top:50px;
+
+    }
+
+        #carousel{
+
+height:300px;
+background-color:white;
+text-align:center;
+
+        }
+
+
+
+
+
+
+
+        #carousel_indicator{
+    top: 75px;
+
+           
+        }
+
+
+
+
+
+        #carousel-example-generic{
+
+            position:relative;
+            top:150px;
+            color:lightsteelblue;
+
+
+        }
+
+        .h5{
+
+            color:lightsteelblue;
+        }
+
+        .li{
+
+
+            color:lightsteelblue;
+        }
+
+
+       #contact{
+
+           
+        text-align:center;
+        color:white;
+        background-color:black;
+        height:200px;
+        padding-top:50px;
+
+
+
+       }
+
+        .h6{
+
+
+            color:lightsteelblue;
+        }
+       
+
+
+
+
+        #message{
+            height:200px;
+            width:400px;
+
+
+
+        }
+
+
+        #footer{
+
+            margin-top:40px;
+
+        text-align:center;
+        color:white;
+        background-color:black;
+        height:200px;
+        padding-top:50px;
+
+    }
+
+
+
+        #row1_col3_btn{
+
+            margin-top:160px;
+            background-color:transparent;
+        }
+
+
+
+       
+
+
+
+
+        
